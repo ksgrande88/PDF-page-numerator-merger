@@ -1,4 +1,5 @@
 PDF-page-numerator-merger
+Numerate PDF, Merge PDF, Timestamp PDF, Code Python
 Small  program that is able to quickly numerate PDFs on a folder on sequence, with partial from each PDF and timestamps it
 The program is written in Python and compiled on Windows, so only Windows users may find use on the .exe version.
 The program is quite small and easy, but it felt necessary due to me not being able to find any ready one on a more-than-quick search
